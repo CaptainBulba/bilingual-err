@@ -34,8 +34,10 @@
 
 ## Usage
 
-1. Install the extension in Firefox (temporary or via AMO).  
-2. Navigate to an article on [ERR](https://www.err.ee/ )
-3. The extension will automatically save and merge bilingual content for `<p>` and heading elements.
+1. Install the extension in Firefox (temporarily or via AMO).
+2. Navigate to an article on [ERR](https://www.err.ee/).
+3. Translate the page to any language using the built-in translator.
+4. Click on `Show original` in the built-in translator.
+5. Enjoy bilingual ERR
 
 ---
