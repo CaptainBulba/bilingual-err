@@ -2,6 +2,8 @@
 
 **BERR** is a lightweight Firefox extension that allows you to view bilingual text on webpages. It tracks original and translated text in `<p>` and heading elements, storing them in `localStorage` and then merging them dynamically for easy bilingual viewing.  
 
+<img width="1036" height="888" alt="image" src="https://github.com/user-attachments/assets/b21f70c0-96ae-405c-873d-1250bb2979ca" />
+
 ---
 
 ## Features
